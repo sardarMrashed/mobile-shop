@@ -2,7 +2,7 @@
 
 A mobile shopping application built with **React Native, Expo, JavaScript, Node.js, and Express.js**.
 
-This is a hands-on learning project where I practice full-stack development, API integration, React Native components, state management, and mobile UI design.
+The application explores mobile UI design, API integration, state management, and shopping workflows with React Native.
 
 ## Features
 
@@ -82,9 +82,9 @@ npx expo start
 
 Scan the QR code using Expo Go.
 
-## What I'm Learning
+## Engineering focus
 
-Through this project, I'm improving my understanding of:
+Areas addressed in the development workflow:
 
 - React Native components and styling
 - Props and state with React hooks
@@ -105,7 +105,7 @@ Through this project, I'm improving my understanding of:
 
 ## Project Status
 
-**Working learning project / portfolio demo.**
+**In-development portfolio application.**
 
 The application has been tested on an iPhone using Expo Go. It is under active development and is not yet a production-ready e-commerce application.
 
